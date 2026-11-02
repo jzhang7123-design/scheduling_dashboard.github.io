@@ -1,0 +1,11 @@
+Scheduling Dashboard (installable app)
+
+1. Put this whole folder on any web host that uses https. Free options: Netlify Drop (app.netlify.com/drop), Cloudflare Pages, GitHub Pages.
+2. Open the address it gives you.
+   - iPhone or iPad (Safari): Share button, then Add to Home Screen.
+   - Android (Chrome): menu, then Install app.
+   - Computer (Chrome or Edge): the install icon in the address bar.
+3. After the first visit it also works offline.
+
+Your plan is saved in the browser or app you use it in. Use Settings, Export my plan to move it between devices.
+Photo scanning and Google Calendar need Claude, so they do not appear here.
